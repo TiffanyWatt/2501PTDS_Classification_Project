@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/twatt/OneDrive%20-%20Ninety%20One/Documents/Data%20Science%20Course/2501PTDS_Classification_Project/mlruns/612999501392196611/dc98ad87d87f4df2b725bba2785832e9/artifacts
+end_time: 1759929184758
+entry_point_name: ''
+experiment_id: '612999501392196611'
+lifecycle_stage: active
+run_id: dc98ad87d87f4df2b725bba2785832e9
+run_name: tfidf_logreg_baseline
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759929171274
+status: 3
+tags: []
+user_id: twatt

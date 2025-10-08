@@ -1,0 +1,22 @@
+artifact_path: file:///c:/Users/twatt/OneDrive%20-%20Ninety%20One/Documents/Data%20Science%20Course/2501PTDS_Classification_Project/mlruns/612999501392196611/models/m-6733852e28614584a36bb23fd2fd796c/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.11.7
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.7.0
+mlflow_version: 3.4.0
+model_id: m-6733852e28614584a36bb23fd2fd796c
+model_size_bytes: 200811
+model_uuid: m-6733852e28614584a36bb23fd2fd796c
+prompts: null
+run_id: dc98ad87d87f4df2b725bba2785832e9
+utc_time_created: '2025-10-08 13:12:52.276196'

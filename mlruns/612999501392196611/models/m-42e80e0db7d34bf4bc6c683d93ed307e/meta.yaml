@@ -1,0 +1,10 @@
+artifact_location: file:///c:/Users/twatt/OneDrive%20-%20Ninety%20One/Documents/Data%20Science%20Course/2501PTDS_Classification_Project/mlruns/612999501392196611/models/m-42e80e0db7d34bf4bc6c683d93ed307e/artifacts
+creation_timestamp: 1759921958642
+experiment_id: '612999501392196611'
+last_updated_timestamp: 1759921970001
+model_id: m-42e80e0db7d34bf4bc6c683d93ed307e
+model_type: null
+name: model
+source_run_id: aea77ce8f1cf4d64836b8bf27f31d6ab
+status: 2
+status_message: null
